@@ -33,6 +33,6 @@ public class Main {
         } else if ( grade < 0 ) {
             System.out.println("Error -- You must really suck");
         }
-    System.out.print("\nGood Bye");
+    System.out.print("...\nGood Bye\n");
     }
 }
